@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c7d507f.chunk.css",
+    "main.js": "/static/js/main.7535cb18.chunk.js",
+    "main.js.map": "/static/js/main.7535cb18.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0ba6c78d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0ba6c78d.js.map",
+    "static/js/2.3b5096d6.chunk.js": "/static/js/2.3b5096d6.chunk.js",
+    "static/js/2.3b5096d6.chunk.js.map": "/static/js/2.3b5096d6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0c7d507f.chunk.css.map": "/static/css/main.0c7d507f.chunk.css.map",
+    "static/js/2.3b5096d6.chunk.js.LICENSE.txt": "/static/js/2.3b5096d6.chunk.js.LICENSE.txt",
+    "static/media/buyHuse.f0dc52b2.png": "/static/media/buyHuse.f0dc52b2.png",
+    "static/media/cook_county_real_estate_colors.8969486c.png": "/static/media/cook_county_real_estate_colors.8969486c.png",
+    "static/media/download.dd658e1a.png": "/static/media/download.dd658e1a.png",
+    "static/media/houseSearching.3189854d.png": "/static/media/houseSearching.3189854d.png",
+    "static/media/realatorBackground.4ff3fdf4.png": "/static/media/realatorBackground.4ff3fdf4.png",
+    "static/media/sweetHome.b97c5ffa.png": "/static/media/sweetHome.b97c5ffa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba6c78d.js",
+    "static/js/2.3b5096d6.chunk.js",
+    "static/css/main.0c7d507f.chunk.css",
+    "static/js/main.7535cb18.chunk.js"
+  ]
+}
